@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **diasvilelagabriel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QZNterz99dgDMUrZ52vasRzk91vs7_PU/view?usp=sharing](https://drive.google.com/file/d/1QZNterz99dgDMUrZ52vasRzk91vs7_PU/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-dias-vilela-b04738233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-dias-vilela-b04738233" height="30" width="40" /></a>
